@@ -1,5 +1,5 @@
 import styles from './styles.module.scss';
-
+  
 import { Home, Trending } from '../../utils/icons';
 import { useMenu } from '../../hook/Menu';
 
