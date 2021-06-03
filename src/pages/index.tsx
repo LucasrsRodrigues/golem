@@ -10,8 +10,8 @@ export default function Home() {
     <GlobalWrapper>
       <div className={styles.container}>
         <ContinueSection />
-        <NewsEpisodeSection />
         <HighlightsSection />
+        <NewsEpisodeSection />
         <LastAddSection />
       </div>
     </GlobalWrapper>
